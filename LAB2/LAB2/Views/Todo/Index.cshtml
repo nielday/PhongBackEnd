@@ -1,0 +1,30 @@
+﻿@model IEnumerable<LAB2.Models.TaskModel>
+
+<h1>Todo List</h1>
+
+<a href="@Url.Action("Add", "Todo")" class="btn btn-primary mb-3">Add Task</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Task</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>@task.Id</td>
+                <td>@task.TaskName</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Todo", new { id = task.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", "Todo", new { id = task.Id })"
+                       class="btn btn-danger"
+                       onclick="return confirm('Bạn có chắc muốn xoá task này?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
