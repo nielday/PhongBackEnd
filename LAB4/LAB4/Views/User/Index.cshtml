@@ -1,0 +1,28 @@
+﻿@model IEnumerable<LAB3.Models.User>
+
+<h3>Danh sách người dùng</h3>
+<a class="btn btn-primary mb-3" href="@Url.Action("Add", "User")">Thêm mới</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>Phone</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Username</td>
+                <td>@item.Password</td>
+                <td>@item.Phone</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
