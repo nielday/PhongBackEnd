@@ -1,0 +1,17 @@
+D:\BT_C#\Lab_1.4\Lab_1.4\bin\Debug\net8.0\Lab_1.4.exe
+D:\BT_C#\Lab_1.4\Lab_1.4\bin\Debug\net8.0\Lab_1.4.deps.json
+D:\BT_C#\Lab_1.4\Lab_1.4\bin\Debug\net8.0\Lab_1.4.runtimeconfig.json
+D:\BT_C#\Lab_1.4\Lab_1.4\bin\Debug\net8.0\Lab_1.4.dll
+D:\BT_C#\Lab_1.4\Lab_1.4\bin\Debug\net8.0\Lab_1.4.pdb
+D:\BT_C#\Lab_1.4\Lab_1.4\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.csproj.AssemblyReference.cache
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.AssemblyInfoInputs.cache
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.AssemblyInfo.cs
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.csproj.CoreCompileInputs.cache
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.csproj.Up2Date
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.dll
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\refint\Lab_1.4.dll
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.pdb
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\Lab_1.4.genruntimeconfig.cache
+D:\BT_C#\Lab_1.4\Lab_1.4\obj\Debug\net8.0\ref\Lab_1.4.dll
